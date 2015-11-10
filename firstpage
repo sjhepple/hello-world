@@ -1,0 +1,43 @@
+
+<html>
+<head>
+	
+	<link rel='stylesheet' type='text/css' href="index.css">
+	<link rel="icon" type="image/ico" href="favicon.ico">
+	<title>Fibrey | A home for natural fibres</title>
+	<style>
+	            ul.nav li{ 
+                display: inline-block;
+                padding-right: 10px;
+            }
+	</style>
+<script src="scripts/jquery.min.js"></script>
+
+</head>
+		
+<body>
+	<div id='header' class='about_site'><p style="text-align: center">&nbsp;FIBREY&nbsp;</div>
+		<div id='main_nav' class='main_list'>
+	<id= "main_nav" ul style="list-style-type:none"><p style="text-align: center">	
+	<li class='important'>ABOUT&nbsp;&nbsp;</li>
+	<li class='important'>IMAGE&nbsp;&nbsp;</li>
+	<li class='important'>PRODUCT&nbsp;&nbsp;</li>
+	</ul>
+</p>
+	<img id='joseph' style="position: relative" src="b6b79b25dcc5d1935f5ed68a9ee2a286.jpg" alt="alpaca's" height="354" width="236">
+	<img id='alpaca' style="position: relative" src="alpaca.jpg" alt="alpaca's" height="354" width="566.66">
+	<img id='cos' style="position: relative" src="0324825001_15_0.jpg" alt="alpaca's" height="354" width="236">
+</p>
+
+	<div style="position: relative" id='first_para' class='description'>
+		<p style="position: fixed; bottom: 40; width:100%; text-align: center">
+			Fibrey.com - A collection of clothing made from natural fibres, available to buy online.
+		</p>
+	</div>
+    		<div style="position: relative" id='final_line' class='description'>
+            <p style="position: fixed; bottom: 0; width:100%; text-align: center">Curated and created by <a href="http://www.twitter.com/sjhepple" target="_blank">Sarah Josephine Hepple</a>, 2015.
+            </p>
+        </div>
+
+ </body>
+</html>
